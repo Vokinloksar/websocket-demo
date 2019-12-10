@@ -18,9 +18,17 @@ start a express project then migrate using vue cli
 - npx 
 
 
+## run
+
+```
+supervisor server.js
+cd vue/
+npm run start -- --port 3002
+[optional] npm run start -- --port 3003
+```
 
 
-## TODO
+## todo
 
 ## issue
 
