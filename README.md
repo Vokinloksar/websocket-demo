@@ -11,6 +11,8 @@ start a express project then migrate using vue cli
 
 - express-generator
 - use npx to start scafolding locally by-project only
+- reconnect-websocket
+- socket.io
 
 ## to be learned
 
